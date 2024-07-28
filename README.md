@@ -17,7 +17,6 @@ A real-time chat application built with modern web technologies to provide a sea
 
 - **Frontend:** React.Js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
 - **Real-Time Communication:** Socket.io
 - **Styling:** CSS
 
@@ -29,7 +28,6 @@ Make sure you have the following installed on your machine:
 
 - Node.js (v14.x or higher)
 - npm (v6.x or higher)
-- MongoDB (v4.x or higher)
 
 ### Installation
 
@@ -87,7 +85,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 - [Socket.io](https://socket.io/)
 - [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
 
 ## Contact
 
